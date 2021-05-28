@@ -1,0 +1,4 @@
+.env
+!./samples
+phones.xlsx
+message.txt
